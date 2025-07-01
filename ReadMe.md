@@ -14,6 +14,18 @@ Ambos programas utilizan la librería `BluetoothSerial.h` para gestionar la comu
 
 ---
 
+## Imágenes de Prueba
+
+A continuación, se muestran capturas del funcionamiento del proyecto:
+
+![Prueba 1](images/imagen_prueba1.jpg)
+*Conexión Bluetooth y mensaje recibido desde el móvil.*
+
+![Prueba 2](images/imagen_prueba2.jpg)
+*Control del LED desde la aplicación Android.*
+
+
+
 ## Requisitos
 
 ### Hardware
